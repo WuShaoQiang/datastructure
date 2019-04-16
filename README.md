@@ -12,4 +12,6 @@
 
 - Depth-first Search
 
-- Breadth-first search
+- Breadth-first Search
+
+- Linked-List
